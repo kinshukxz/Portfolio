@@ -34,9 +34,11 @@ Welcome to the source code of my personal developer portfolio! This website show
 ---
 
 📷 Screenshot
-<!-- Replace with a real preview image -->
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/91f2d78a-0e79-4ed9-84b8-9a26b7bc0054" />
+
 
 📬 Contact
-📧 kinshuksrivastava@example.com
+📧 kinshuksriv9191@gmail.com
 📍 Lucknow, India
-🔗 LinkedIn • GitHub
+🔗 LinkedIn :- https://www.linkedin.com/in/kinshuk-srivastava-57932a241/
+• GitHub :- https://github.com/kinshukxz
