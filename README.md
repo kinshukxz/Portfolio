@@ -38,7 +38,11 @@ Welcome to the source code of my personal developer portfolio! This website show
 
 
 📬 Contact
+
 📧 kinshuksriv9191@gmail.com
+
 📍 Lucknow, India
+
 🔗 LinkedIn :- https://www.linkedin.com/in/kinshuk-srivastava-57932a241/
+
 • GitHub :- https://github.com/kinshukxz
