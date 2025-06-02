@@ -6,7 +6,7 @@ Welcome to the source code of my personal developer portfolio! This website show
 
 ## 📌 Live Preview
 
-🌐 [Click here to visit the live site]
+🌐 https://portfolio-kinshukxzs-projects.vercel.app/
 
 ---
 
